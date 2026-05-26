@@ -1,5 +1,3 @@
-
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Ahmad%20Hassan&fontSize=62&fontColor=ffffff&fontAlignY=36&desc=AI%20Builder%20%7C%20Web3%20Security%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
@@ -24,9 +22,9 @@ and hackathon-based MVP building.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-aa02933a0)
-[![GitHub](https://img.shields.io/badge/GitHub-realahmad07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realahmad07)
-[![Profile Views](https://komarev.com/ghpvc/?username=realahmad07&style=for-the-badge&color=blueviolet)](https://github.com/realahmad07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hassan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-aa02933a0)
+[![GitHub](https://img.shields.io/badge/GitHub-realahmad07-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/realahmad07)
+[![Profile Views](https://komarev.com/ghpvc/?username=realahmad07\&style=for-the-badge\&color=blueviolet)](https://github.com/realahmad07)
 
 </div>
 
@@ -48,22 +46,22 @@ I enjoy converting ideas into working products, especially during hackathons whe
 
 ### 🤖 AI & Automation
 
-- Autonomous AI agents  
-- Gemini-powered applications  
-- Workflow automation  
-- AI-assisted decision systems  
-- Practical AI product development  
+* Autonomous AI agents
+* Gemini-powered applications
+* Workflow automation
+* AI-assisted decision systems
+* Practical AI product development
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Web3 & Security
 
-- Solana smart contract auditing  
-- Rust and Anchor program analysis  
-- On-chain proof systems  
-- Web3 security research  
-- Blockchain-based trust systems  
+* Solana smart contract auditing
+* Rust and Anchor program analysis
+* On-chain proof systems
+* Web3 security research
+* Blockchain-based trust systems
 
 </td>
 </tr>
@@ -73,22 +71,22 @@ I enjoy converting ideas into working products, especially during hackathons whe
 
 ### 🌐 Full-Stack Development
 
-- Modern web applications  
-- Backend APIs  
-- Frontend interfaces  
-- Cloud-based deployment  
-- Product-focused development  
+* Modern web applications
+* Backend APIs
+* Frontend interfaces
+* Cloud-based deployment
+* Product-focused development
 
 </td>
 <td width="50%" valign="top">
 
 ### 📱 Mobile Development
 
-- Flutter applications  
-- Cross-platform UI  
-- Mobile-first product design  
-- AI-integrated mobile apps  
-- Hackathon MVPs  
+* Flutter applications
+* Cross-platform UI
+* Mobile-first product design
+* AI-integrated mobile apps
+* Hackathon MVPs
 
 </td>
 </tr>
@@ -98,11 +96,11 @@ I enjoy converting ideas into working products, especially during hackathons whe
 
 ## 🎯 Current Focus
 
-- Building AI-powered applications using **Gemini and agent workflows**
-- Exploring **Solana security, smart contract auditing, and on-chain proof systems**
-- Developing mobile apps with **Flutter**
-- Participating in hackathons and turning ideas into working MVPs
-- Improving skills in **backend systems, cloud deployment, and Web3 tooling**
+* Building AI-powered applications using **Gemini and agent workflows**
+* Exploring **Solana security, smart contract auditing, and on-chain proof systems**
+* Developing mobile apps with **Flutter**
+* Participating in hackathons and turning ideas into working MVPs
+* Improving skills in **backend systems, cloud deployment, and Web3 tooling**
 
 ---
 
@@ -120,13 +118,13 @@ Assaan Service is an AI-powered platform designed to organize and automate Pakis
 
 **Key Highlights**
 
-- 📱 Built with **Flutter**
-- 🧠 AI agent-based workflow
-- 🛠️ Service request automation
-- 💰 Dynamic pricing logic
-- 🌍 Focused on real-world local service problems
+* 📱 Built with **Flutter**
+* 🧠 AI agent-based workflow
+* 🛠️ Service request automation
+* 💰 Dynamic pricing logic
+* 🌍 Focused on real-world local service problems
 
-**Tech Focus:**  
+**Tech Focus:**
 `Flutter` · `AI Agents` · `Google Antigravity` · `Gemini API`
 
 </td>
@@ -140,13 +138,13 @@ Rexy AI is an autonomous AI security tool that analyzes Solana programs and dete
 
 **Key Highlights**
 
-- 🔍 AI-based Solana program analysis
-- 🦀 Rust and Anchor security checks
-- ⛓️ On-chain proof using Solana Memo
-- 💎 cNFT security certificate concept
-- 🥩 Auditor staking and trust mechanism
+* 🔍 AI-based Solana program analysis
+* 🦀 Rust and Anchor security checks
+* ⛓️ On-chain proof using Solana Memo
+* 💎 cNFT security certificate concept
+* 🥩 Auditor staking and trust mechanism
 
-**Tech Focus:**  
+**Tech Focus:**
 `Solana` · `Rust` · `AI Security` · `Smart Contract Auditing`
 
 </td>
@@ -161,26 +159,26 @@ Rexy AI is an autonomous AI security tool that analyzes Solana programs and dete
 
 ### Languages
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Frameworks & Platforms
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge\&logo=solana\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge\&logo=google-cloud\&logoColor=white)
 
 ### Specializations
 
-![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge&logo=google-gemini&logoColor=white)
-![Web3 Security](https://img.shields.io/badge/Web3%20Security-6C2BD9?style=for-the-badge&logo=web3dotjs&logoColor=white)
-![Smart Contract Auditing](https://img.shields.io/badge/Smart%20Contract%20Auditing-F16822?style=for-the-badge&logo=ethereum&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathon%20Builder-FF6F00?style=for-the-badge&logo=hackthebox&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-412991?style=for-the-badge\&logo=google-gemini\&logoColor=white)
+![Web3 Security](https://img.shields.io/badge/Web3%20Security-6C2BD9?style=for-the-badge\&logo=web3dotjs\&logoColor=white)
+![Smart Contract Auditing](https://img.shields.io/badge/Smart%20Contract%20Auditing-F16822?style=for-the-badge\&logo=ethereum\&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathon%20Builder-FF6F00?style=for-the-badge\&logo=hackthebox\&logoColor=white)
 
 </div>
 
@@ -188,11 +186,11 @@ Rexy AI is an autonomous AI security tool that analyzes Solana programs and dete
 
 ## 🏆 Hackathon Experience
 
-| Hackathon | Project | Domain |
-|---|---|---|
-| **Google Antigravity Hackathon** | Assaan Service | AI Agents + Flutter + Local Services |
-| **Solana Renaissance Hackathon** | Rexy AI | Web3 Security + Smart Contract Auditing |
-| **TIET / Owas 8.0** | Hackathon Participation | Software Development + Innovation |
+| Hackathon                        | Project                 | Domain                                  |
+| -------------------------------- | ----------------------- | --------------------------------------- |
+| **Google Antigravity Hackathon** | Assaan Service          | AI Agents + Flutter + Local Services    |
+| **Solana Renaissance Hackathon** | Rexy AI                 | Web3 Security + Smart Contract Auditing |
+| **TIET / Owas 8.0**              | Hackathon Participation | Software Development + Innovation       |
 
 ---
 
@@ -206,8 +204,8 @@ I am open to collaboration, internships, hackathon teams, and projects related t
 
 <br/>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-aa02933a0)
-[![View GitHub](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/realahmad07)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-aa02933a0)
+[![View GitHub](https://img.shields.io/badge/View%20My%20GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/realahmad07)
 
 </div>
 
@@ -224,4 +222,3 @@ I am open to collaboration, internships, hackathon teams, and projects related t
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
 </div>
-```
